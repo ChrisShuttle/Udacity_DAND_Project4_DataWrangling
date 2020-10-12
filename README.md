@@ -22,7 +22,7 @@ To achieve this, create a solid and clean master dataset. Based on the analysis 
 - Create a 250-word-minimum written report called act_report.html that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
 - data limited until 1st Aug 2017
 
-**Documents created during the project:
+**Documents created during the project**:
 
 Masterdocument:
     project4_twitter_data_wrangling_and_analysis.ipynb
